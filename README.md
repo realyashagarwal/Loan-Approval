@@ -1,5 +1,9 @@
 # Loan Approval
 
+![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-brightgreen)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Project Overview
 Predicting loan approval status using machine learning. This project analyzes historical loan application data to identify key factors influencing approval decisions.
 
